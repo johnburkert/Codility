@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\jburkert\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\jburkert\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_DiceRotations.329023770.00" t="ExcludeRecursive" />
+    <e p="C:\Users\jburkert\RiderProjects\DiceRotations" t="IncludeFlat">
+      <e p="DiceRotations" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DiceRotations.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="DiceRotations.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Solution.cs" t="Include" />
+      </e>
+      <e p="DiceRotations.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
